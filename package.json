@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/pdaambrosio/blockchain#readme",
   "dependencies": {
-    "crypto.js": "^3.0.0"
+    "crypto-js": "^4.1.1"
   }
 }
