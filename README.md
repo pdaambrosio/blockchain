@@ -1,2 +1,2 @@
 # blockchain
-Learnng a little about blockchain
+Learning a little about blockchain
