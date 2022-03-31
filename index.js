@@ -1,4 +1,6 @@
-const Block = require("./block");
-const block1 = new Block();
+const BlockChain = require("./blockChain");
+const blockChain = new BlockChain();
 
-console.log(block1);
+blockChain.addBlock({ from: "a", to: "b", amount: 100 });
+blockChain.addBlock({ from: "c", to: "d", amount: 100 });
+console.log(blockChain);
